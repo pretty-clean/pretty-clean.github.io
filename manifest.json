@@ -1,0 +1,19 @@
+{
+  "name":"0.1.0",
+  "notes":"Release 0.1.0",
+  "pub_date":"2022-02-10T00:25:57Z",
+  "platforms": {
+      "darwin": {
+          "signature":"",
+          "url":""
+      },
+      "linux": {
+          "signature":"",
+          "url":""
+      },
+      "win64": {
+          "signature":"",
+          "url":""
+      }
+  }
+}
