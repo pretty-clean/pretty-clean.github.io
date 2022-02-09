@@ -5,7 +5,7 @@
   "platforms": {
       "darwin": {
           "signature":"",
-          "url":""
+          "url":"https://github.com/pretty-clean/pretty-clean.github.io/releases/download/v0.1.0/PrettyClean.app.tar.gz"
       },
       "linux": {
           "signature":"",
