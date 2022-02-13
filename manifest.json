@@ -1,11 +1,11 @@
 {
-  "name":"0.1.0",
-  "notes":"Release 0.1.0",
-  "pub_date":"2022-02-10T00:25:57Z",
+  "name":"0.1.1",
+  "notes":"Release 0.1.1",
+  "pub_date":"2022-02-13T15:18:57Z",
   "platforms": {
       "darwin": {
           "signature":"",
-          "url":"https://github.com/pretty-clean/pretty-clean.github.io/releases/download/v0.1.0/PrettyClean.app.tar.gz"
+          "url":"https://github.com/pretty-clean/pretty-clean.github.io/releases/download/v0.1.1/PrettyClean.app.tar.gz"
       },
       "linux": {
           "signature":"",
