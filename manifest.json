@@ -4,7 +4,7 @@
   "pub_date": "2022-02-21T16:35:57Z",
   "platforms": {
     "darwin": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEYxRkNFRjgxOTU3Rjg0QTQKUldTa2hIK1ZnZS84OFhjY2ZnYlh1UFpnd2JkblNlbE1XKzZWczUzd25YNDdnTjZHeVFFdnRPZEEK",
       "url": "https://github.com/pretty-clean/pretty-clean.github.io/releases/download/v0.1.5/PrettyClean.app.tar.gz"
     },
     "linux": {
